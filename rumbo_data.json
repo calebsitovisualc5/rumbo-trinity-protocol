@@ -1,0 +1,313 @@
+{
+  "users": {
+    "RMB-6867": {
+      "username": "RMB-6867",
+      "full_name": "Daniel",
+      "favorite_color": "verde",
+      "pin": "1234",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-5715": {
+      "username": "RMB-5715",
+      "full_name": "Daniel",
+      "favorite_color": "verde",
+      "pin": "1234",
+      "balance_mxn": 19.0,
+      "recycled_kg": 2.0,
+      "co2_avoided_kg": 3.0,
+      "history": [
+        {
+          "source": "Escáner / Acopio Coacalco",
+          "material": "PET Limpio",
+          "weight_kg": 1.5,
+          "earned_mxn": 14.25,
+          "co2_avoided_kg": 2.25
+        },
+        {
+          "source": "Escáner / Acopio Coacalco",
+          "material": "PET Limpio",
+          "weight_kg": 0.5,
+          "earned_mxn": 4.75,
+          "co2_avoided_kg": 0.75
+        }
+      ]
+    },
+    "RMB-5341": {
+      "username": "RMB-5341",
+      "full_name": "Daniel",
+      "favorite_color": "verde",
+      "pin": "1234",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-7654": {
+      "username": "RMB-7654",
+      "full_name": "Daniel",
+      "favorite_color": "verde",
+      "pin": "4821",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-8177": {
+      "username": "RMB-8177",
+      "full_name": "Diego",
+      "favorite_color": "Azul",
+      "pin": "0000",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-9794": {
+      "username": "RMB-9794",
+      "full_name": "Gael",
+      "favorite_color": "Morado",
+      "pin": "6789",
+      "balance_mxn": 4.2,
+      "recycled_kg": 1.0,
+      "co2_avoided_kg": 0.9,
+      "history": [
+        {
+          "source": "Escáner / Acopio Coacalco",
+          "material": "Cartón",
+          "weight_kg": 1.0,
+          "earned_mxn": 4.2,
+          "co2_avoided_kg": 0.9
+        }
+      ]
+    },
+    "RMB-4233": {
+      "username": "RMB-4233",
+      "full_name": "Sergio",
+      "favorite_color": "Cafe",
+      "pin": "2222",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-6591": {
+      "username": "RMB-6591",
+      "full_name": "Juan",
+      "favorite_color": "Gris",
+      "pin": "2323",
+      "balance_mxn": 3.36,
+      "recycled_kg": 0.8,
+      "co2_avoided_kg": 0.72,
+      "history": [
+        {
+          "source": "Escáner / Acopio Coacalco",
+          "material": "Cartón",
+          "weight_kg": 0.8,
+          "earned_mxn": 3.36,
+          "co2_avoided_kg": 0.72
+        }
+      ]
+    },
+    "RMB-1580": {
+      "username": "RMB-1580",
+      "full_name": "Marcos",
+      "favorite_color": "Lila",
+      "pin": "8989",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-4969": {
+      "username": "RMB-4969",
+      "full_name": "Roberto",
+      "favorite_color": "Verde",
+      "pin": "1234",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-1693": {
+      "username": "RMB-1693",
+      "full_name": "Marcos",
+      "favorite_color": "Cafe",
+      "pin": "4545",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-6844": {
+      "username": "RMB-6844",
+      "full_name": "Fernando",
+      "favorite_color": "Naranja",
+      "pin": "2525",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-6070": {
+      "username": "RMB-6070",
+      "full_name": "Diego",
+      "favorite_color": "Morado",
+      "pin": "3232",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-9862": {
+      "username": "RMB-9862",
+      "full_name": "Marcos",
+      "favorite_color": "Lila",
+      "pin": "1234",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-1650": {
+      "username": "RMB-1650",
+      "full_name": "Diego",
+      "favorite_color": "Azul",
+      "pin": "1234",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-7682": {
+      "username": "RMB-7682",
+      "full_name": "Gael",
+      "favorite_color": "Cafe",
+      "pin": "4545",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-6289": {
+      "username": "RMB-6289",
+      "full_name": "Marcos",
+      "favorite_color": "Azul",
+      "pin": "4545",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-5384": {
+      "username": "RMB-5384",
+      "full_name": "Marcos",
+      "favorite_color": "Morado",
+      "pin": "4242",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-5808": {
+      "username": "RMB-5808",
+      "full_name": "Juan",
+      "favorite_color": "Azul",
+      "pin": "5252",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-3057": {
+      "username": "RMB-3057",
+      "full_name": "Diego",
+      "favorite_color": "Azul",
+      "pin": "1234",
+      "balance_mxn": 14.25,
+      "recycled_kg": 1.5,
+      "co2_avoided_kg": 2.25,
+      "history": [
+        {
+          "source": "Escáner / Acopio Coacalco",
+          "material": "PET Limpio",
+          "weight_kg": 1.5,
+          "earned_mxn": 14.25,
+          "co2_avoided_kg": 2.25
+        }
+      ]
+    },
+    "RMB-9081": {
+      "username": "RMB-9081",
+      "full_name": "Juan",
+      "favorite_color": "Gris",
+      "pin": "1212",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-6557": {
+      "username": "RMB-6557",
+      "full_name": "Daniel",
+      "favorite_color": "Morado",
+      "pin": "1212",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-1646": {
+      "username": "RMB-1646",
+      "full_name": "Daniel",
+      "favorite_color": "Azul",
+      "pin": "4646",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-8197": {
+      "username": "RMB-8197",
+      "full_name": "Marcos",
+      "favorite_color": "Azul",
+      "pin": "1212",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-7432": {
+      "username": "RMB-7432",
+      "full_name": "Marta",
+      "favorite_color": "Cobre",
+      "pin": "2020",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-7121": {
+      "username": "RMB-7121",
+      "full_name": "Marcos",
+      "favorite_color": "Cafe",
+      "pin": "2323",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    },
+    "RMB-8624": {
+      "username": "RMB-8624",
+      "full_name": "Daniel",
+      "favorite_color": "Cafe",
+      "pin": "2828",
+      "balance_mxn": 0.0,
+      "recycled_kg": 0.0,
+      "co2_avoided_kg": 0.0,
+      "history": []
+    }
+  }
+}
